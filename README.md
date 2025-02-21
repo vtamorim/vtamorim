@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o  @vtamorim
 - 👀 Estou interessado em aprender linguagens
-- 🌱 Ultimamente estou aprendendo ... Python,JavaScript e SQL
+- 🌱 Ultimamente estou aprendendo ... Python,JavaScript e C#
 - 💞️ Estou querendo ajudar em...nada(por enquanto)
 - 📫 Contato:...vthero89@gmail.com
 - ⚡ Um fato daora: Sou negro
