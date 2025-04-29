@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o  @vtamorim
 - 👀 Estou interessado em aprender linguagens de programação
-- 🌱 Ultimamente estou aprendendo ... Python, JavaScript e C#
+- 🌱 Ultimamente estou aprendendo ... Python, JavaScript e Java
 - 📫 Contato:...vthero89@gmail.com
 - ✨ Sonho em ser um Dev Full Stack bem renumerado 
 <!---
