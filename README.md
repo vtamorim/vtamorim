@@ -1,5 +1,5 @@
-<h1 align="left">👨‍💻 Victor Miguel!</h1>
-<h3 align="center"> 🤓Entusiasta por Programação e Tecnologias</h3>
+#  👨‍💻 Victor Miguel
+**`Estusiasta de TI`**
 <hr></hr>
 <b> Sobre mim:</b>
 <ul>
@@ -21,4 +21,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30px" alt="Git">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30px" alt="Java">         
 </p>
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtamorim&show_icons=true&theme=radical)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vtamorim&theme=radical&show_icons=true" height="200" style="margin-right: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtamorim&theme=radical&layout=compact" height="200">
+</p>
