@@ -23,6 +23,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30px" alt="Java">         
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vtamorim&theme=radical&show_icons=true" height="200" style="margin-right: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vtamorim&include_all_commits=true&theme=radical&show_icons=true" height="200" style="margin-right: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtamorim&theme=radical&layout=compact" height="200">
 </p>
