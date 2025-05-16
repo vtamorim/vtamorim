@@ -29,7 +29,6 @@
 <h3>Aprendendo Ultimamente</h3>
 <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30px" alt="Java">     
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30px" alt="React">
           
 </p>
 <p>
