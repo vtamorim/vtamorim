@@ -3,9 +3,9 @@
 
    <p align="left">
       <a href="https://github.com/vtamorim?tab=followers">
-         <img alt="followers" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/vtamorim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/vtamorim?color=9338ff&labelColor=440095&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/vtamorim?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total de Estrelas no Github" src="https://custom-icon-badges.demolab.com/github/stars/vtamorim?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total de Estrelas no Github" src="https://custom-icon-badges.demolab.com/github/stars/vtamorim?color=ffd638&style=for-the-badge&labelColor=c19900&logo=star"/></a>
    </p>
 <hr></hr>
 <b> Sobre mim:</b>
@@ -32,6 +32,7 @@
           
 </p>
 <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=vtamorim&include_all_commits=true&theme=radical&show_icons=true&locale=pt-br" height="200" style="margin-right: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtamorim&theme=radical&layout=compact&locale=pt-br" height="200">
+   <img src="https://github-readme-stats.vercel.app/api?username=vtamorim&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="200" style="margin-right: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtamorim&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" height="200">
+   <img src="https://streak-stats.demolab.com?user=vtamorim&theme=midnight-purple&hide_border=true" height="200">
 </p>
