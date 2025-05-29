@@ -1,12 +1,5 @@
 #  👨‍💻 Victor Miguel
 **`Estusiasta de TI`**
-
-   <p align="left">
-      <a href="https://github.com/vtamorim?tab=followers">
-         <img alt="followers" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/vtamorim?color=9338ff&labelColor=440095&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/vtamorim?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total de Estrelas no Github" src="https://custom-icon-badges.demolab.com/github/stars/vtamorim?color=ffd638&style=for-the-badge&labelColor=c19900&logo=star"/></a>
-   </p>
 <hr></hr>
 <b> Sobre mim:</b>
 <ul>
@@ -32,7 +25,7 @@
           
 </p>
 <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=vtamorim&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="200" style="margin-right: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtamorim&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" height="200">
-   <img src="https://streak-stats.demolab.com?user=vtamorim&theme=midnight-purple&hide_border=true" height="200">
+   <img src="https://github-readme-stats.vercel.app/api?username=vtamorim&theme=gotham&show_icons=true&hide_border=true&locale=pt-br&count_private=true" height="200" style="margin-right: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtamorim&theme=gotham&locale=pt-br&show_icons=true&hide_border=true&layout=compact" height="200">
+   <img src="https://streak-stats.demolab.com?user=vtamorim&theme=gotham&locale=pt-br&hide_border=true" height="200">
 </p>
