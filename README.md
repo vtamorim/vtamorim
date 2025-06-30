@@ -5,7 +5,6 @@
 <ul>
   <li>💻Cursando <strong> Informática para Internet </strong>(2/4) - IFRN CNAT</li>
   <li>🚀Apenas um cara que gosta de Programação e Tecnologias</li>
-  <li>📫Contato? <a href="mailto:vthero89@gmail.com">Clique Aqui</a></li>
 </ul>
 <h3>Linguagens e Tecnologias</h3>
 <p>
