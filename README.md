@@ -26,7 +26,7 @@
            
 </p>
 <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=vtamorim&theme=gotham&show_icons=true&hide_border=true&locale=pt-br&count_private=true" height="200" style="margin-right: 20px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=vtamorim&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&locale=pt-br&count_private=true" height="200" style="margin-right: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtamorim&theme=gotham&locale=pt-br&show_icons=true&hide_border=true&layout=compact" height="200">
    <img src="https://streak-stats.demolab.com?user=vtamorim&theme=gotham&locale=pt-br&hide_border=true" height="200">
 </p>
