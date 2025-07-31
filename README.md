@@ -1,6 +1,7 @@
 #  👨‍💻 Victor Miguel
 **`Estudante de TI`**
 <hr></hr>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlqcXVvMndpcHo4YzF0eHFvZ2VndmQxczVraGZ3NWRhbGU3NDRwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="descrição" width="300"/>
 <b> Sobre mim:</b>
 <ul>
   <li>💻Cursando <strong> Informática para Internet </strong>(2/4) - IFRN CNAT</li>
@@ -8,20 +9,21 @@
 </ul>
 <h3>Linguagens e Tecnologias</h3>
 <p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30px" alt="HTML">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30px" alt="CSS">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30px" alt="Python">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30px" alt="Javascript">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30px" alt="Figma">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="30px" alt="Swift">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="30px" alt="Jupyter" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30px" alt="Git">       
-          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30px" alt="HTML">&nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30px" alt="CSS">&nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30px" alt="Python">&nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30px" alt="Javascript">&nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30px" alt="Figma">&nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="30px" alt="Swift">&nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30px" alt="Git">   &nbsp;&nbsp;&nbsp;    
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30px" alt="Java">  &nbsp;&nbsp;&nbsp;        
 </p>
 <h3>Aprendendo Ultimamente</h3>
 <p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30px" alt="Java">     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="30px" alt="Unity" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30px" alt="C#"/>
           
+           
 </p>
 <p>
    <img src="https://github-readme-stats.vercel.app/api?username=vtamorim&theme=gotham&show_icons=true&hide_border=true&locale=pt-br&count_private=true" height="200" style="margin-right: 20px;">
