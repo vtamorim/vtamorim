@@ -6,7 +6,6 @@
 <ul>
   <li>💻Cursando <strong> Informática para Internet </strong>(2/4) - IFRN CNAT</li>
   <li>🚀Apenas um cara que gosta de Programação e Tecnologias</li>
-  <li>❤Neymar(davi)</li>
 </ul>
 <h3>Linguagens e Tecnologias</h3>
 <p>
@@ -24,7 +23,12 @@
 </p>
 <h3>Aprendendo Ultimamente</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30px" alt="TypeScript"/> &nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="30px" alt="spring" /> 
+     &nbsp;&nbsp;&nbsp;
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="30px" alt="docker" />
+           &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="30px" alt="Vue js" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30px" alt="C#"/>
           
