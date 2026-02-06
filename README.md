@@ -19,6 +19,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="30px" alt="Unity" />&nbsp;&nbsp;&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30px" alt="Bootstrap" />&nbsp;&nbsp;&nbsp;
 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="30px" alt="Vue js" /
           
 </p>
 <h3>Aprendendo Ultimamente</h3>
