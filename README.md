@@ -30,8 +30,8 @@
      &nbsp;&nbsp;&nbsp;
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="30px" alt="docker" />
-           &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="30px" alt="Vue js" />&nbsp;&nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;
+            
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30px" alt="C#"/>
           
            
