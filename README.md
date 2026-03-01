@@ -4,7 +4,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlqcXVvMndpcHo4YzF0eHFvZ2VndmQxczVraGZ3NWRhbGU3NDRwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="descrição" width="300"/>
 <b> Sobre mim:</b>
 <ul>
-  <li>💻Cursando <strong> Informática para Internet </strong>(2/4) - IFRN CNAT</li>
+  <li>💻Cursando <strong> Informática para Internet </strong>(3/4) - IFRN CNAT</li>
   <li>🚀Apenas um cara que gosta de Programação e Tecnologias</li>
 </ul>
 <h3>Linguagens e Tecnologias</h3>
