@@ -28,6 +28,9 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="30px" alt="spring" /> 
      &nbsp;&nbsp;&nbsp;
+     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="30px" />
+     &nbsp;&nbsp;&nbsp;     
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="30px" alt="docker" />
          &nbsp;&nbsp;&nbsp;
